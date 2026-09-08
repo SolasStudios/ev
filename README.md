@@ -1,6 +1,6 @@
 # ✨ AURA (Advanced Universal Responsive Assistant)
 
-AURA (Advanced Universal Responsive Assistant) is a private, locally-ran AI assistant powered by the NVIDIA Build API. Developed by Solas Studios, AURA aims to provide an intuitive and seamless user experience through our signature 'Gruent' design language—a blend of fluent aesthetics and grounded simplicity.
+AURA (Advanced Universal Responsive Assistant) is a private, locally-ran AI assistant powered by the NVIDIA Build API. Developed by Solas Studios, AURA aims to provide an intuitive and seamless user experience through our signature 'Lucid' design language—a blend of fluent aesthetics and grounded simplicity.
 
 ---
 
@@ -8,15 +8,15 @@ AURA (Advanced Universal Responsive Assistant) is a private, locally-ran AI assi
 
 - **Private & Secure:** Runs privately to ensure your data and interactions remain confidential.
 - **Powered by NVIDIA:** Leverages the robust NVIDIA Build API for high-performance AI capabilities.
-- **'Gruent' Design:** Features a unique, simple-to-use, and fluent user interface crafted by Solas Studios.
+- **'Lucid' Design:** Features a unique, simple-to-use, and fluent user interface crafted by Solas Studios.
 - **Fast & Responsive:** Optimized for quick replies and smooth interactions.
 
 ---
 
 ## ❓ FAQ
 
-**What is the 'Gruent' design?**
-'Gruent' is a custom design language developed by Solas Studios that combines the smoothness of fluent design with practical, grounded usability.
+**What is the 'Lucid' design?**
+'Lucid' is a custom design language developed by Solas Studios that combines the smoothness of fluent design with practical, grounded usability.
 
 **What API does AURA use?**
 AURA is powered by the NVIDIA Build API to deliver its core AI functionalities.
